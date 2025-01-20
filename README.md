@@ -1,0 +1,1 @@
+Creating a Quiz Application Based On Spring boot using microservices. For Attempting a Quiz by a applicant. There are two actor availble in this project. One is Admin another one applicant. Admin can creating question and quiz. Applicant can get Quiz by id ,attempting the quiz and get the score. 
